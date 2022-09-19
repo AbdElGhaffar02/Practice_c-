@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663627070 source:d:\mygithub\practice_c++\set_power\main.cpp
+	<iostream>
+	<array>
+
